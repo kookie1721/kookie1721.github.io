@@ -1,0 +1,13 @@
+
+@media screen and (max-width:533px) 
+{
+
+    .navbar{
+        width: 620px;
+    }
+
+    .table{
+        width: 600px;
+    }
+    
+}
